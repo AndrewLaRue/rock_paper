@@ -1,0 +1,15 @@
+C:\codeworks\rock_paper\rock_paper\bin\Debug\net6.0\rock_paper.exe
+C:\codeworks\rock_paper\rock_paper\bin\Debug\net6.0\rock_paper.deps.json
+C:\codeworks\rock_paper\rock_paper\bin\Debug\net6.0\rock_paper.runtimeconfig.json
+C:\codeworks\rock_paper\rock_paper\bin\Debug\net6.0\rock_paper.dll
+C:\codeworks\rock_paper\rock_paper\bin\Debug\net6.0\rock_paper.pdb
+C:\codeworks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.csproj.AssemblyReference.cache
+C:\codeworks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.GeneratedMSBuildEditorConfig.editorconfig
+C:\codeworks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.AssemblyInfoInputs.cache
+C:\codeworks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.AssemblyInfo.cs
+C:\codeworks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.csproj.CoreCompileInputs.cache
+C:\codeworks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.dll
+C:\codeworks\rock_paper\rock_paper\obj\Debug\net6.0\refint\rock_paper.dll
+C:\codeworks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.pdb
+C:\codeworks\rock_paper\rock_paper\obj\Debug\net6.0\rock_paper.genruntimeconfig.cache
+C:\codeworks\rock_paper\rock_paper\obj\Debug\net6.0\ref\rock_paper.dll
